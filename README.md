@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisCzsSCHOOL
 - 👀 I’m interested in Gaming and Coding!
-- 🌱 I’m currently learning to be a software engineering
+- 🌱 I’m currently learning to be a software engineer
 - 💞️ I’m looking to collaborate on projects for school with fellow students
 - 📫 How to reach me: Not currently
 - 😄 Pronouns: he/him  
